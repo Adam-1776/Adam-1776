@@ -1,4 +1,4 @@
-I'm always looking to collaborate. Check out my website at https://adamwrizk.com, or shoot me an email.
+
 
 <!---
 Adam-1776/Adam-1776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
